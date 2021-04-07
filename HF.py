@@ -21,9 +21,9 @@ st.subheader("Insert the appropriate values using the input buttons by the left 
 st.text("""     
         1. age
         2. anaemia
-        3. creatinine_phosphokinase
+        3. creatinine_phosphokinase (an enzyme found in your heart, brain, and skeletal muscles)
         4. diabetes
-        5. ejection_fraction
+        5. ejection_fraction (percentage of blood leaving your heart each time it contracts)
         6. high_blood_pressure
         7. platelets
         8. serum_creatinine
